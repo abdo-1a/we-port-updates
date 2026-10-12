@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "latestVersionCode": 2,
+  "minimumSupportedVersionCode": 2,
+  "versionName": "2.0",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/seMPyTlxOnCKtlUg.apk",
+  "apkSha256": "f583d08a049989ccf0da64cbb7ca6446e0d2d8da15d340b3be1119768a168e39",
+  "title": "تحديث WE PORT",
+  "message": "نسخة التطبيق الحالية هي الأحدث.",
+  "releaseNotes": [
+    "نظام تحديث آمن عبر HTTPS",
+    "لوحة أرقام مربعة وحساب تلقائي",
+    "سجل عمليات محلي ووضع داكن"
+  ]
+}
