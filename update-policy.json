@@ -1,16 +1,15 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 4,
+  "latestVersionCode": 5,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.2",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/hQdaiKZbshmTGQHF.apk",
-  "apkSha256": "7e548877ffaef175be1aa36657771fc64d8f76b5f241c849e4a7282aac02dbb6",
+  "versionName": "2.2.1",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/lgFUGOvCzatwmTqx.apk",
+  "apkSha256": "c33d9684ea4d1adf81323143630b41253f136283cb18e10d2f6309e34ca94061",
   "title": "مميزات جديدة في WE PORT",
-  "message": "يتوفر الإصدار 2.2 من WE PORT مع الفقاعة العائمة والسجل والملاحظات المحلية.",
+  "message": "يتوفر الإصدار 2.2.1 مع إصلاح مشكلة تعديل وحذف الملاحظات.",
   "releaseNotes": [
-    "فقاعة عائمة للحساب السريع",
-    "إمكانية مسح السجل",
-    "صفحة ملاحظات محلية",
-    "إشعار مميزات التحديث يظهر مرة واحدة لكل إصدار"
+    "إصلاح الخروج عند تعديل الملاحظات",
+    "إصلاح الخروج عند حذف الملاحظات",
+    "تحسين استقرار صفحة الملاحظات"
   ]
 }
