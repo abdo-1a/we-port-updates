@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 3,
+  "latestVersionCode": 4,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.1",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/yCHzkNnRJiqcsaKk.apk",
-  "apkSha256": "65d754ee2ef96e563691c3769ea7a7adcc3bf02f865058ab7d584386b3bc6fec",
-  "title": "تحديث جديد متاح",
-  "message": "يتوفر الإصدار 2.1 من WE PORT مع نظام تحديث آمن وتحسينات في الأداء.",
+  "versionName": "2.2",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/hQdaiKZbshmTGQHF.apk",
+  "apkSha256": "7e548877ffaef175be1aa36657771fc64d8f76b5f241c849e4a7282aac02dbb6",
+  "title": "مميزات جديدة في WE PORT",
+  "message": "يتوفر الإصدار 2.2 من WE PORT مع الفقاعة العائمة والسجل والملاحظات المحلية.",
   "releaseNotes": [
-    "نظام تحديث اختياري وإجباري",
-    "التحقق من سلامة وتوقيع APK",
-    "تحسينات في الاستقرار"
+    "فقاعة عائمة للحساب السريع",
+    "إمكانية مسح السجل",
+    "صفحة ملاحظات محلية",
+    "إشعار مميزات التحديث يظهر مرة واحدة لكل إصدار"
   ]
 }
