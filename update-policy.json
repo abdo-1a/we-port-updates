@@ -1,15 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 5,
+  "latestVersionCode": 6,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.2.1",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/lgFUGOvCzatwmTqx.apk",
-  "apkSha256": "c33d9684ea4d1adf81323143630b41253f136283cb18e10d2f6309e34ca94061",
+  "versionName": "2.2.2",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/fAjCGtxsKtVxOyYo.apk",
+  "apkSha256": "ddd89ed2a7af9db4e0aae345889585bcfee14895315a2f18e36fc624922816aa",
   "title": "مميزات جديدة في WE PORT",
-  "message": "يتوفر الإصدار 2.2.1 مع إصلاح مشكلة تعديل وحذف الملاحظات.",
+  "message": "يتوفر الإصدار 2.2.2 مع فقاعة عائمة محسّنة تشبه Messenger.",
   "releaseNotes": [
-    "إصلاح الخروج عند تعديل الملاحظات",
-    "إصلاح الخروج عند حذف الملاحظات",
-    "تحسين استقرار صفحة الملاحظات"
+    "فقاعة قابلة للسحب والالتصاق بحافة الشاشة",
+    "إغلاق البطاقة عند الضغط خارجها",
+    "ظهور البطاقة قرب موضع اليد",
+    "زر واحد لتشغيل أو إيقاف الفقاعة من الصفحة الرئيسية"
   ]
 }
