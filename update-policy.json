@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 6,
+  "latestVersionCode": 7,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.2.2",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/fAjCGtxsKtVxOyYo.apk",
-  "apkSha256": "ddd89ed2a7af9db4e0aae345889585bcfee14895315a2f18e36fc624922816aa",
+  "versionName": "2.2.3",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/tfrHwKiPVGhbEfqo.apk",
+  "apkSha256": "d2386e67fae2f430d61f9a5b75819b5c47c04a6ce696a42334983b30eb9eced8",
   "title": "مميزات جديدة في WE PORT",
-  "message": "يتوفر الإصدار 2.2.2 مع فقاعة عائمة محسّنة تشبه Messenger.",
+  "message": "يتوفر الإصدار 2.2.3 مع لوحة أرقام وتحكم محسّن بالفقاعة.",
   "releaseNotes": [
-    "فقاعة قابلة للسحب والالتصاق بحافة الشاشة",
-    "إغلاق البطاقة عند الضغط خارجها",
-    "ظهور البطاقة قرب موضع اليد",
-    "زر واحد لتشغيل أو إيقاف الفقاعة من الصفحة الرئيسية"
+    "لوحة أرقام داخل الفقاعة",
+    "اختفاء جزئي وشفافية بعد 5 ثوانٍ",
+    "أنميشن سلس للسحب والالتصاق بالحواف",
+    "سحب الفقاعة إلى زر × لإخفائها",
+    "نص إشعار التحديث باللون الأسود"
   ]
 }
