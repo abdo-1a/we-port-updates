@@ -1,17 +1,16 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 7,
+  "latestVersionCode": 8,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.2.3",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/tfrHwKiPVGhbEfqo.apk",
-  "apkSha256": "d2386e67fae2f430d61f9a5b75819b5c47c04a6ce696a42334983b30eb9eced8",
+  "versionName": "2.2.4",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/IwlKNgoLdbfVBqKs.apk",
+  "apkSha256": "5aff3a54d3f7744c7dba307e8956e2657e7702759ff1e7ef179089b7ccbf7c24",
   "title": "مميزات جديدة في WE PORT",
-  "message": "يتوفر الإصدار 2.2.3 مع لوحة أرقام وتحكم محسّن بالفقاعة.",
+  "message": "يتوفر الإصدار 2.2.4 مع اعتماد HUAWEI فقط وتحسين نتيجة البورت.",
   "releaseNotes": [
-    "لوحة أرقام داخل الفقاعة",
-    "اختفاء جزئي وشفافية بعد 5 ثوانٍ",
-    "أنميشن سلس للسحب والالتصاق بالحواف",
-    "سحب الفقاعة إلى زر × لإخفائها",
-    "نص إشعار التحديث باللون الأسود"
+    "إزالة أزرار اختيار نوع الكبينة",
+    "اعتماد حساب HUAWEI فقط",
+    "تحويل نتيجة بورت 0 إلى بورت 16",
+    "الحفاظ على السجلات القديمة"
   ]
 }
