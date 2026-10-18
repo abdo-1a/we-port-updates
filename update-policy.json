@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 8,
+  "latestVersionCode": 9,
   "minimumSupportedVersionCode": 2,
-  "versionName": "2.2.4",
-  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/IwlKNgoLdbfVBqKs.apk",
-  "apkSha256": "5aff3a54d3f7744c7dba307e8956e2657e7702759ff1e7ef179089b7ccbf7c24",
+  "versionName": "2.2.5",
+  "apkUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519664006599186/CJORTvilpIzdSMRw.apk",
+  "apkSha256": "d09c30e562b018ed49c909489ba66c4e621ea78eb0d84a3a01fafd709633290a",
   "title": "مميزات جديدة في WE PORT",
-  "message": "يتوفر الإصدار 2.2.4 مع اعتماد HUAWEI فقط وتحسين نتيجة البورت.",
+  "message": "يتوفر الإصدار 2.2.5 مع إصلاح التحديث وفتح التحميل في المتصفح.",
   "releaseNotes": [
-    "إزالة أزرار اختيار نوع الكبينة",
-    "اعتماد حساب HUAWEI فقط",
-    "تحويل نتيجة بورت 0 إلى بورت 16",
-    "الحفاظ على السجلات القديمة"
+    "فتح رابط APK في Chrome أو المتصفح الافتراضي",
+    "إصلاح التخزين المؤقت لسياسة التحديث",
+    "معالجة صلاحية تثبيت التطبيقات غير المعروفة",
+    "إعادة المحاولة بعد العودة من إعدادات الصلاحية",
+    "فحص أقوى لسلامة APK والتوقيع"
   ]
 }
